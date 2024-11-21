@@ -1,0 +1,9 @@
+.header {
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: rgb(64, 35, 180);
+  color: rgb(255, 255, 255);
+}
